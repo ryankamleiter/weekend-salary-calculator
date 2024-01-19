@@ -1,0 +1,15 @@
+- make a header "Salary Calculator"
+- h1 of "add employee"
+
+- x create form with 5 inputs. (first name, last name, ID number, job title, annual salary)
+- x create a table with first name, last name, id, title, and annual salary in html
+- x create a submit button to add new employee data
+- create a submit function that 
+    x 1. adds empoyee data to table
+    2. update's footer with total monthly cost
+    x 3. clears the input data from the form
+        - check if monthly cost exceeds 20,000 (add all salaries then divide by 12)
+        - if so, apply an over budget css class (make the number red?)
+- create a delete button
+- create a delete function
+- make style sheet look good
