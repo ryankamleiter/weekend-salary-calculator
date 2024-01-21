@@ -8,8 +8,8 @@
     x 1. adds empoyee data to table
     2. update's footer with total monthly cost
     x 3. clears the input data from the form
-        - check if monthly cost exceeds 20,000 (add all salaries then divide by 12)
-        - if so, apply an over budget css class (make the number red?)
-- create a delete button
-- create a delete function
+        - x check if monthly cost exceeds 20,000 (add all salaries then divide by 12)
+        - x if so, apply an over budget css class (make the number red?)
+- x create a delete button
+- x create a delete function
 - make style sheet look good
